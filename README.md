@@ -4,6 +4,8 @@
 
 execute time
 
-![execution time](/timeContiguous.jpg)
-
+เวลาในการรันแบบ Interleaved
 ![execution time](/timeInterleaved.jpg)
+
+เวลาในการรันแบบ Contiguous
+![execution time](/timeContiguous.jpg)
